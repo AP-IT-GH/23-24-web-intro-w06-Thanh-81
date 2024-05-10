@@ -4,41 +4,41 @@
 
 ### `index.html` openen
 
- - [ ] Open het bestand genaamd [`index.html`](index.html).
+ - [x] Open het bestand genaamd [`index.html`](index.html).
 
 ### `contact.html` aanmaken
 
- - [ ] Maak een nieuw bestand genaamd [`contact.html`](contact.html).
+ - [x] Maak een nieuw bestand genaamd [`contact.html`](contact.html).
 
 ### head
 
-- [ ] Laad in de head de correcte links in voor Bootstrap.
-- [ ] Koppel de eigen css uit [`style.css`](css/style.css) aan de HTML.
+- [x] Laad in de head de correcte links in voor Bootstrap.
+- [x] Koppel de eigen css uit [`style.css`](css/style.css) aan de HTML.
 
 ### bekijk de Bootstrap cheatsheet
 
-- [ ] Open de [Bootstrap cheatsheet](https://getbootstrap.com/docs/5.3/examples/cheatsheet/). Gebruik de dev-tools van je browser om de elementen te inspecteren.
-- [ ] Open de [Bootstrap icons](https://icons.getbootstrap.com/). Klik op een icoontje om te leren hoe je het icoontje gebruikt op een Bootstrap-webpagina.
+- [x] Open de [Bootstrap cheatsheet](https://getbootstrap.com/docs/5.3/examples/cheatsheet/). Gebruik de dev-tools van je browser om de elementen te inspecteren.
+- [x] Open de [Bootstrap icons](https://icons.getbootstrap.com/). Klik op een icoontje om te leren hoe je het icoontje gebruikt op een Bootstrap-webpagina.
 
 ### voorbeeld namaken
 
-- [ ] Maak de printscreens van de contactpagina zo goed mogelijk na.
+- [x] Maak de printscreens van de contactpagina zo goed mogelijk na.
 
 #### gemeenschappelijke onderdelen
 
-- [ ] Kopieer de gemeenschappelijke onderdelen van de `index.html` naar `contact.html`
-- [ ] Zorg dat beide pagina’s naar elkaar verwijzen in de nav.
+- [x] Kopieer de gemeenschappelijke onderdelen van de `index.html` naar `contact.html`
+- [x] Zorg dat beide pagina’s naar elkaar verwijzen in de nav.
 
 #### [form](https://apwt.gitbook.io/g_webtechnologie/html/html-formulieren)
 
-- [ ] Maak een form met `action="#"` en `method="post"`
+- [x] Maak een form met `action="#"` en `method="post"`
 
 #### [fieldset](https://apwt.gitbook.io/g_webtechnologie/html/html-formulieren)
 
-- [ ] Maak 4 fieldsets (groepering van elementen) in het formulier in een grid-structuur (row) met telkens een gutter van 3 en een marge onderaan van 3.
-- [ ] Elke fieldset heeft een legend (titel).
+- [x] Maak 4 fieldsets (groepering van elementen) in het formulier in een grid-structuur (row) met telkens een gutter van 3 en een marge onderaan van 3.
+- [x] Elke fieldset heeft een legend (titel).
 - [ ] De legend heeft dezelfde eigenschappen als de titels (h2) van de shop met een extra padding boven van 3.
-- [ ] Maak het formulier op de contactpagina zo nauwkeurig mogelijk na. Zorg dat het sterretje bij verplichte velden in een span komt te staan en de koffiebruine kleur krijgt.
+- [x] Maak het formulier op de contactpagina zo nauwkeurig mogelijk na. Zorg dat het sterretje bij verplichte velden in een span komt te staan en de koffiebruine kleur krijgt.
   - fieldset gegevens
     - voornaam (text)
     - achternaam (text)
